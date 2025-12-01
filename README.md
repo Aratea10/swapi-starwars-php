@@ -1,4 +1,11 @@
 # Star Wars — Consulta de personajes (SWAPI)
+
+<div align="center">
+  
+  [![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+
+</div>
+
 Página en PHP que:
 - Carga TODOS los personajes con una sola petición (`/people?limit=...`).
 - Los muestra en un desplegable.
